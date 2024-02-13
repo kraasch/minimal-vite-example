@@ -1,6 +1,6 @@
 # my-website
 
- - coding along with: [https://youtu.be/-4AiH_ueMlY?list=PL3VM-unCzF8jX-GoazLPcbi7M0wJux8F-&t=227]( Learn Vue 3 - Ep 16, An Introduction to Vite )
+ - coding along with: [Learn Vue 3 - Ep 16, An Introduction to Vite](https://youtu.be/-4AiH_ueMlY?list=PL3VM-unCzF8jX-GoazLPcbi7M0wJux8F-&t=227).
 
 Command to create this base repo was `npm init vue@latest`, choices were:
   
