@@ -1,4 +1,6 @@
-# my-website
+# Basic Vue3 + Vite Page
+
+## my notes
 
  - coding along with: [Learn Vue 3 - Ep 16, An Introduction to Vite](https://youtu.be/-4AiH_ueMlY?list=PL3VM-unCzF8jX-GoazLPcbi7M0wJux8F-&t=227).
 
@@ -15,43 +17,24 @@ Command to create this base repo was `npm init vue@latest`, choices were:
   - prettier: yes
 
 After creation:
-```bash
+```sh
 cd my-website
 npm install
 npm run lint
 npm run dev
 ```
 
+## default notes
+
 This template should help get you started developing with Vue 3 in Vite.
 
-## Recommended IDE Setup
+Recommended IDE Setup: [VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
+Customize configuration see [Vite Configuration Reference](https://vitejs.dev/config/).
 
 ```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
-
-### Lint with [ESLint](https://eslint.org/)
-
-```sh
-npm run lint
+npm install   # Project Setup
+npm run dev   # Compile and Hot-Reload for Development
+npm run build # Compile and Minify for Production
+npm run lint  # Lint with [ESLint](https://eslint.org/)
 ```
